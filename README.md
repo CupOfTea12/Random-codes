@@ -1,4 +1,4 @@
-# Python-random-codes
+# YeeYee-random-codes
 random stuff from my school/ life/ work
 
 # Why?
