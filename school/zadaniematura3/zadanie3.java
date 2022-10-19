@@ -17,16 +17,16 @@ public class zadanie3 {
 	public void obvodKruhu() {
 		System.out.println("Zadajte polomer pre vypocet: ");
 		r = scan.nextInt();
-		System.out.println(2*r*pi);
+		System.out.println("Obvod kruhu je: " + 2*r*pi);
 		
 	}
 	
 	public void obsahKruhu() {
-		
+		System.out.println("Obsah krhu je: " + pi*(r*r));
 	}
 	
 	public void objemGule() {
-		
+		System.out.println("Objem gule je: " + (4/3)*pi*(r*r*r));
 		
 	}
 	
