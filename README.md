@@ -1,6 +1,7 @@
 # YeeYee-random-codes
 > random stuff from my school/ life/ work
-> super ulti tools for hacking
+> 
+
 
 # Why?
 Bcz i suffer from not sharing my shitcode to the world
