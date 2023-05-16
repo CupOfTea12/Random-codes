@@ -41,5 +41,12 @@ public class Main {
     public static List<Car> createCarList() {
         List<Car> cars = new ArrayList<>();
 
-        // Add cars to the list
-        cars.add(new Car("Toyota", "V6",
+        cars.add(new Car("Toyota", "V6", 4, 6, 2022, 5000.5));
+        cars.add(new Car("Honda", "V8", 4, 8, 2021, 8000.2));
+        cars.add(new Car("Ford", "V4", 4, 4, 2023, 200.7));
+        cars.add(new Car("Chevrolet", "V6", 4, 6, 2022, 3500.9));
+        cars.add(new Car("BMW", "V6", 4, 6, 2020, 10000.0));
+        
+        return cars;
+    }
+}
