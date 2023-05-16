@@ -1,10 +1,10 @@
 public class Car {
-    private String znacka;
+    private String znacka =("BMW");
     private String motor;
-    private int pocetKolies;
-    private int pocetSvetiel;
-    private int rokVyroby;
-    private double pocetNajazdenychKilometrov;
+    private int pocetKolies=4;
+    private int pocetSvetiel=8;
+    private int rokVyroby=2005;
+    private double pocetNajazdenychKilometrov=14000;
     
     // Constructor
     public Car(String znacka, String motor, int pocetKolies, int pocetSvetiel, int rokVyroby, double pocetNajazdenychKilometrov) {
